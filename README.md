@@ -3,7 +3,6 @@
 ![C++](https://img.shields.io/badge/C++-Generic%20Programming-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-Linked%20List%20%7C%20Stack%20%7C%20Queue-orange?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/Paradigm-Object%20Oriented-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Educational-informational?style=for-the-badge)
 
 A template-based implementation of fundamental linear data structures in C++, built from scratch without using STL containers.
 
